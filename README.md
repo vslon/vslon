@@ -23,14 +23,14 @@ All tools are also listed on [vislobokov.art/tools](https://vislobokov.art/tools
 
 <table>
   <tr>
-    <td width="33%"><a href="https://vislobokov.art/project/Zenit"><img src="assets/Zenit.jpg" alt="Zenit"></a><br><sub><b>Zenit</b> · CGI · 2026</sub></td>
-    <td width="33%"><a href="https://vislobokov.art/project/Yandex_Charity"><img src="assets/Yandex_Charity.jpg" alt="Yandex Charity"></a><br><sub><b>Yandex Charity</b> · CGI · 2025</sub></td>
-    <td width="33%"><a href="https://vislobokov.art/project/Metallist"><img src="assets/Metallist.jpg" alt="Metallist"></a><br><sub><b>Metallist</b> · CGI · 2025</sub></td>
+    <td width="33%"><a href="https://vislobokov.art/project/HFCL"><img src="assets/HFCL.jpg" alt="HFCL"></a><br><sub><b>HFCL</b> · CGI · 2025</sub></td>
+    <td width="33%"><a href="https://vislobokov.art/project/Muse"><img src="assets/Muse.jpg" alt="Muse – Nightshift Superstar"></a><br><sub><b>Muse – Nightshift Superstar</b> · CGI · 2026</sub></td>
+    <td width="33%"><a href="https://vislobokov.art/project/ZheeShee_HNY"><img src="assets/ZheeShee_HNY.jpg" alt="ZheeShee Happy NY"></a><br><sub><b>ZheeShee Happy NY</b> · CGI · 2026</sub></td>
   </tr>
   <tr>
-    <td><a href="https://vislobokov.art/project/Liquid_Mining"><img src="assets/Liquid_Mining.jpg" alt="Liquid Mining"></a><br><sub><b>Liquid Mining</b> · CGI · 2022</sub></td>
+    <td><a href="https://vislobokov.art/project/Yandex_Flowers"><img src="assets/Yandex_Flowers.jpg" alt="Yandex | Flowers"></a><br><sub><b>Yandex | Flowers</b> · CGI · 2026</sub></td>
     <td><a href="https://vislobokov.art/project/BCS_ML"><img src="assets/BCS_ML.jpg" alt="BCS ML"></a><br><sub><b>BCS ML</b> · CGI · 2024</sub></td>
-    <td><a href="https://vislobokov.art/project/Technopark_NY"><img src="assets/Technopark_NY.jpg" alt="Technopark New Year"></a><br><sub><b>Technopark New Year</b> · CGI · 2025</sub></td>
+    <td><a href="https://vislobokov.art/project/Liquid_Mining"><img src="assets/Liquid_Mining.jpg" alt="Liquid Mining"></a><br><sub><b>Liquid Mining</b> · CGI · 2022</sub></td>
   </tr>
 </table>
 
