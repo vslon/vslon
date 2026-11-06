@@ -15,7 +15,7 @@ Here I publish the tools I build for my own CG and AI pipeline: plugins, scripts
 
 | | Repo | What it does | Stack |
 |---|---|---|---|
-| 001 | [**vslon_ae_mcp**](https://github.com/vs1on/vslon_ae_mcp) | Control Adobe After Effects from Claude and other MCP clients. A CEP bridge inside After Effects plus a zero-dependency MCP server: read projects, edit comps, run ExtendScript and render. | After Effects · MCP · Python |
+| 001 | [**vslon_ae_mcp**](https://github.com/vslon/vslon_ae_mcp) | Control Adobe After Effects from Claude and other MCP clients. A CEP bridge inside After Effects plus a zero-dependency MCP server: read projects, edit comps, run ExtendScript and render. | After Effects · MCP · Python |
 
 All tools are also listed on [vislobokov.art/tools](https://vislobokov.art/tools).
 
